@@ -1,4 +1,4 @@
-a collection of all music i've made.
+a collection of most music i've made.
 
 as project files are in a binary format, all project files have an associated text file to make them easier to version control.
 
